@@ -52,3 +52,5 @@ Some pre-made libraries for Python 2.7 and 3.4 can be downloaded from [this loca
 
 Compilation instructions can be found here:
 http://docs.cython.org/src/reference/compilation.html
+
+Source:http://www.pythonic.me/kompilacja-skryptu-pythona-do-pojedynczego-pliku-exe/112
