@@ -24,7 +24,7 @@ Add location of MinGW compiler (for example **c:\mingw\bin**) to Your system pat
 > Find entry named "**Path**" and add Your path at the end after semicolon
 
 **STEP 4**
-Open Windows command line console -> CMD: 
+Open Windows command line console - CMD and run these commands: 
 > **mingw-get install gcc**
 > 
 > **mingw-get install mingw-utils**
